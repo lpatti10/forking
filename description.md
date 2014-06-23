@@ -10,3 +10,7 @@ Animal Dance
 - Line-in support for live mixing
 - Turntable support for live scratching
 - Multi-monitor support for many simultaneous dancing animals
+
++ Composite mash-ups of multiple videos
++ Split-screen, side-by-sides of mash-ups
++ Please be sure to add a disclaimer that no animals were harmed in the making of this app. (You may want to solicit PETA as a sponsor) 
